@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soybrook.com/sitemap.xml
